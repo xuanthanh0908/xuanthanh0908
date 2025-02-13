@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋  <br><br>🔭 I'm currently working on a scalable microservice system that can serve thousands of users per day<br>🤝 I’m looking to collaborate on event-driven architectures and distributed systems  <br>🤝 I’m looking for help with optimizing Kafka consumers & retry mechanisms  <br>🌱 I’m currently learning Data Engineering and AI Solution Architecture <br>💬 Ask me about NestJS, Kafka, and microservices best practices<br>⚡ Fun fact: I love debugging complex distributed systems!<br>
+Hi there! 👋  <br><br>🔭 I'm currently working on a scalable microservice system that can serve thousands of users per day<br>🤝 I’m looking to collaborate on event-driven architectures and distributed systems  <br>🤝 I’m looking for help with optimizing Cloud Pricing  <br>🌱 I’m currently learning Data Engineering and AI Solution Architecture <br>💬 Ask me about NestJS, Kafka, and microservices best practices<br>⚡ Fun fact: I love debugging complex distributed systems!<br>
 
 
 ## 🌐 Socials:
